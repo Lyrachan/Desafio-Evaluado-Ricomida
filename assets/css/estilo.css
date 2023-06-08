@@ -1,0 +1,50 @@
+body {
+    font-family: 'Cabin', sans-serif;
+}
+
+nav {
+    background-color: #373a3c;
+}
+
+hr {
+    margin-top: 3rem;
+}
+
+#ingredientes {
+    font-family: 'Cabin', sans-serif;
+}
+
+#preparacion {
+    font-family: 'Cabin', sans-serif;
+}
+
+.subrayado {
+    text-decoration: underline;
+}
+
+.Logo {
+    font-family: 'Lobster', cursive;
+    color: #dddddd;
+}
+
+.suscripcion {
+    background-color: #dc3545;
+}
+
+.cartitas {
+    margin-top: 2rem;
+}
+
+footer {
+    background-color: #373a3c;
+}
+
+/* Colores y fuentes a usar:
+#373a3c
+● #dddddd
+● #000 o var(--black)
+● #fff o var(--white)
+● #dc3545 o var(--danger) */
+
+/* font-family: 'Cabin', sans-serif;
+font-family: 'Lobster', cursive; */
